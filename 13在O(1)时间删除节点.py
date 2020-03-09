@@ -24,4 +24,4 @@ class Solution:
                 node = node.next_node
             node.next_node = None
             del_node = None
-        return head_node
+        return head_node、
