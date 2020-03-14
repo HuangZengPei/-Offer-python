@@ -5,7 +5,6 @@
 #         self.left = None
 #         self.right = None
 class Solution:
-class Solution:
     def __init__(self):
         self.head = None
         self.tail = None
