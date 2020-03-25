@@ -21,7 +21,7 @@ class Solution(object):
             i += 1
         print(numberOf0)
         print(numberOfGap)
-        if numberOf0 == numberOfGap:
+        if numberOf0 >= numberOfGap:
             return True
         else:
             return False
